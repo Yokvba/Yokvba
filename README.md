@@ -1,5 +1,5 @@
 Sup,
-hi i'm byCRXHIT (aka Jaro)
-- I'm 16 y/o
+hi i'm byCRXHIT
+- I'm 15 y/o
 - Love coding Discord Bots
 - and making websited for fun
