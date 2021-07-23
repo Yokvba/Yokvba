@@ -8,7 +8,7 @@
 </div>
 
 [![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/byCRXHIT)
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1)
 
 <hr>
 
