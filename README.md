@@ -1,7 +1,7 @@
 ### Hey! I'm byCRXHIT
 
 </a>
-<a href="https://steamcommunity.com/profiles/76561198001381717/">
+<a href="https://steamcommunity.com/profiles/blinjaro/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
 </a>
 
