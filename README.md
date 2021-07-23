@@ -6,7 +6,7 @@
 </a>
 
 </div>
-
+[![Website](https://img.shields.io/website?label=bycrxhit.de&style=for-the-badge&url=https%3A%2F%2Fbycrxhit.de)](https://bycrxhit.de)
 [![Github Follow](https://img.shields.io/github/followers/byCRXHIT?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/byCRXHIT)
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1)
 
@@ -37,7 +37,7 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byCRXHIT&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 [website]: httos://bycrxhit.de
 [youtube]: https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1
