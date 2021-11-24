@@ -29,9 +29,10 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&count_private=true&theme=dracula" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byCRXHIT&count_private=true&theme=dracula" /></a>
+<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&count_private=true&theme=dracula" />
+<img height="137px" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byCRXHIT&count_private=true&theme=dracula" /></a>
 
-[website]: httos://bycrxhit.de
+[website]: https://bycrxhit.de
 [youtube]: https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1
 
 <div align="center">
