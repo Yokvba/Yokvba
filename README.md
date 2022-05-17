@@ -34,7 +34,7 @@ if it says "Maximum retries exceeded", it's not my fault. The API is sometimes b
 [website]: https://bycrxhit.de
 [youtube]: https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n99eol6e2cc25iw2kq1itaplc) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n99eol6e2cc25iw2kq1itaplc)
 
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/58c82bd115d5db6d9db3905f/1521757235321-3RSRJ9W26H3BYMIWL1IQ/ke17ZwdGBToddI8pDm48kLJD7A5eo1c_EUqdJxTdNzcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbps3bEgXpM0SJ0h0aI7dzYPD3eAgYjebLC0WF7iWAczGfjqH6tCi8DvH2z_Xl2y_/line+divider.png?format=2500w" >
