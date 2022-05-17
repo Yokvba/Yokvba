@@ -27,7 +27,7 @@
 ---
 
 ### ⚡ Github Stats
-if it says "Limit Exceeded, it's not my fault.
+if it says "Limit Exceeded", it's not my fault. The API is sometimes buggy lol
 <br>
 <a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&count_private=true&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
 
