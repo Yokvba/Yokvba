@@ -1,10 +1,10 @@
-### Hey! I'm byCRXHIT
+### Hey! I'm byCRXHIT 👋
 
 [![Website](https://img.shields.io/website?label=bycrxhit.xyz&style=for-the-badge&url=https%3A%2F%2Fbycrxhit.xyz)](https://bycrxhit.xyz)
 [![Github Follow](https://img.shields.io/github/followers/byCRXHIT?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/byCRXHIT)
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1)
 
-
+![profile](https://discord.c99.nl/widget/theme-3/758444849212555296.png)
 <hr>
 
 ### Languages and Tools
