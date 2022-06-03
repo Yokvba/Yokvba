@@ -5,10 +5,11 @@
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1)
 
 ![profile](https://discord.c99.nl/widget/theme-3/758444849212555296.png)
+<br />
+
 <hr>
 
 ### Languages and Tools
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,27 +21,24 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 <br />
 
 ---
 
 ### ⚡ Github Stats
-<br>
-<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&count_private=true&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
-
-[website]: https://bycrxhit.de
-[youtube]: https://www.youtube.com/channel/UCq8pnrQvQ8AQH_XrWGfCyiQ?sub_confirmation=1
-
----
-### [🎶 Currently Listening](https://spotify-stalker.bycrxhit.verxcyhost.xyz)
+<a href="https://github.com/byCRXHIT"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=byCRXHIT&count_private=true&theme=dracula" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
+<br />
+<br />
+<br />
+<br />
 
 ---
+
 ### 🔗 Useful links
 
 - [FFmpeg x64](https://cdn.bycrxhit.xyz/files/ffmpeg-n4.4.1-win64-lgpl-4.4.zip)
 - [NodeJS 16](https://nodejs.org/dist/v16.13.0/node-v16.13.0-x64.msi) | [NodeJS 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi)
+- [🎶 Currently Listening](https://spotify-stalker.bycrxhit.verxcyhost.xyz)
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n99eol6e2cc25iw2kq1itaplc)
 <div align="center">
