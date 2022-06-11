@@ -36,8 +36,8 @@
 
 ### 🔗 Useful links
 
-- [FFmpeg x64](https://cdn.bycrxhit.xyz/files/ffmpeg-n4.4.1-win64-lgpl-4.4.zip)
-- [NodeJS 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [NodeJS 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi)
+- [FFmpeg x64](https://cdn.bycrxhit.xyz/files/ffmpeg-n4.4.1-win64-lgpl-4.4.zip) (Direct Download)
+- [NodeJS 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [NodeJS 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi) (Direct Download)
 - [🎶 Currently Listening](https://spotify-stalker.bycrxhit.verxcyhost.xyz)
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n99eol6e2cc25iw2kq1itaplc)
