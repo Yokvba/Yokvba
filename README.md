@@ -39,12 +39,10 @@
 - [FFmpeg x64](https://cdn.bycrxhit.xyz/files/ffmpeg-n4.4.1-win64-lgpl-4.4.zip) (Direct Download)
 - [NodeJS 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [NodeJS 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi) (Direct Download)
 - [🎶 Currently Listening](https://spotify-stalker.bycrxhit.verxcyhost.xyz)
-- [📊 File Download SpeedTest](https://st.atoha1.eu)
 <br>
 <br>
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n99eol6e2cc25iw2kq1itaplc)
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/58c82bd115d5db6d9db3905f/1521757235321-3RSRJ9W26H3BYMIWL1IQ/ke17ZwdGBToddI8pDm48kLJD7A5eo1c_EUqdJxTdNzcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbps3bEgXpM0SJ0h0aI7dzYPD3eAgYjebLC0WF7iWAczGfjqH6tCi8DvH2z_Xl2y_/line+divider.png?format=2500w" >
 </div>
