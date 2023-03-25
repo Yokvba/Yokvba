@@ -40,8 +40,6 @@
 - [NodeJS 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [NodeJS 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi) (Direct Download)
 - [🎶 Currently Listening](https://spotify-stalker.bycrxhit.verxcyhost.xyz)
 <br>
-<br>
-<br>
 
 ---
 
