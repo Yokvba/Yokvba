@@ -30,7 +30,7 @@
 <br />
 <br />
 ### 🏆 Trophys
-![trophys](https://github-profile-trophy.vercel.app/?username=byCRXHIT&theme=radical&row=1&column=10)
+![trophys](https://github-profile-trophy.vercel.app/?username=Yokvba&theme=radical&row=1&column=10)
 
 ---
 
