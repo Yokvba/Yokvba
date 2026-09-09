@@ -26,7 +26,7 @@
 ---
 
 ### ⚡ Github Stats
-<a href="https://github.com/Yokvba"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yokvba&count_private=true&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical" /></a>
+<a href="https://github.com/Yokvba"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yokvba&count_private=true&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokvba&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical" /></a>
 <br />
 <br />
 ### 🏆 Trophys
